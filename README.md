@@ -34,3 +34,5 @@ https://github.com/microsoft/terminal/issues/1918
 # Contributions
 
 If you have an icon in mind, contributions and pull requests are welcome. You can also open an issue and make a suggestion, or improvement for the current icon set.
+
+NAS, Server and SSH icons from https://icons8.com/icons
